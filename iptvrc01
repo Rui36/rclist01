@@ -1,0 +1,1090 @@
+#EXTM3U
+url-tvg="https://xtream-editor.com/en/get/epg/1F933D1ED9BF79DC6DCD496169A5A1C0" catchup="xc"
+#EXTINF:-1 tvg-chno="1" tvg-id="rtp.1.pt" tvg-name="rtp.1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png" group-title="PT General",PT051:RTP 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3199
+#EXTINF:-1 tvg-chno="2" tvg-id="rtp.2.pt" tvg-name="rtp.2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png" group-title="PT General",PT052:RTP 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3198
+#EXTINF:-1 tvg-chno="3" tvg-id="sic.pt" tvg-name="sic.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png" group-title="PT General",PT054:Sic
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3196
+#EXTINF:-1 tvg-chno="4" tvg-id="tvi.pt" tvg-name="tvi.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png" group-title="PT General",PT077:TVI
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3173
+#EXTINF:-1 tvg-chno="5" tvg-id="rtp.3.pt" tvg-name="rtp.3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3197
+#EXTINF:-1 tvg-chno="6" tvg-id="tvi24.pt" tvg-name="tvi24.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png" group-title="PT General",PT078:TVI 24
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3172
+#EXTINF:-1 tvg-chno="7" tvg-id="sic.noticias.pt" tvg-name="sic.noticias.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png" group-title="PT General",PT056:SIC Noticias
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3194
+#EXTINF:-1 tvg-chno="8" tvg-id="afro.music.pt" tvg-name="afro.music.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT003AfroMusic.png" group-title="PT General",PT003:Afro Music
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3247
+#EXTINF:-1 tvg-chno="9" tvg-id="artv.pt" tvg-name="artv.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT005ARTV.png" group-title="PT General",PT005:ARTV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3245
+#EXTINF:-1 tvg-chno="10" tvg-id="CacaEPesca.pt" tvg-name="CacaEPesca.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3233
+#EXTINF:-1 tvg-chno="11" tvg-id="cbs.reality.pt" tvg-name="cbs.reality.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3232
+#EXTINF:-1 tvg-chno="12" tvg-id="e.entertainment.pt" tvg-name="e.entertainment.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT024E!Entertainment.png" group-title="PT General",PT024:E! Entertainment
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3226
+#EXTINF:-1 tvg-chno="13" tvg-id="euronews.pt" tvg-name="euronews.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Euro Sport News
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3223
+#EXTINF:-1 tvg-chno="14" tvg-id="fox.life.pt" tvg-name="fox.life.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3219
+#EXTINF:-1 tvg-chno="15" tvg-id="fuel.pt" tvg-name="fuel.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT033FuelTV.png" group-title="PT General",PT033:Fuel TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3217
+#EXTINF:-1 tvg-chno="16" tvg-id="globo.pt" tvg-name="globo.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT034Globo.png" group-title="PT General",PT034:Globo
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3216
+#EXTINF:-1 tvg-chno="17" tvg-id="mtv.portugal.pt" tvg-name="mtv.portugal.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT043MTVPortuga.png" group-title="PT General",PT043:MTV Portuga
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3207
+#EXTINF:-1 tvg-chno="18" tvg-id="Porto.pt" tvg-name="Porto.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT050PortoCanal.png" group-title="PT General",PT050:Porto Canal
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3200
+#EXTINF:-1 tvg-chno="19" tvg-id="sic.mulher.pt" tvg-name="sic.mulher.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png" group-title="PT General",PT055:SIC Mulher
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3195
+#EXTINF:-1 tvg-chno="20" tvg-id="sic.radical.pt" tvg-name="sic.radical.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png" group-title="PT General",PT057:SIC Radical
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3193
+#EXTINF:-1 tvg-chno="21" tvg-id="syfy.pt" tvg-name="syfy.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="PT General",PT065:SYFY
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3185
+#EXTINF:-1 tvg-chno="22" tvg-id="tlc.pt" tvg-name="tlc.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3184
+#EXTINF:-1 tvg-chno="23" tvg-id="travel.pt" tvg-name="travel.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3182
+#EXTINF:-1 tvg-chno="24" tvg-id="tv.galicia.pt" tvg-name="tv.galicia.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png" group-title="PT General",PT073:TV Galicia
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3177
+#EXTINF:-1 tvg-chno="25" tvg-id="record.pt" tvg-name="record.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png" group-title="PT General",PT075:TV Record
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3175
+#EXTINF:-1 tvg-chno="26" tvg-id="vh1.pt" tvg-name="vh1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT079VH1.png" group-title="PT General",PT079:VH1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3171
+#EXTINF:-1 tvg-chno="27" tvg-id="vh1.pt" tvg-name="vh1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT080VH1Classic.png" group-title="PT General",PT080:VH1 Classic
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3170
+#EXTINF:-1 tvg-chno="28" tvg-id="tvi.reality.pt" tvg-name="tvi.reality.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT081TVIREALITY.png" group-title="PT General",PT081:TVI REALITY
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29409
+#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="PT082:TVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT082TVC.png" group-title="PT General",PT082:TVC HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29408
+#EXTINF:-1 tvg-chno="30" tvg-id="food.network.pt" tvg-name="food.network.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png" group-title="PT General",PT083:Foods Network
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29407
+#EXTINF:-1 tvg-chno="31" tvg-id="tvi.reality.pt" tvg-name="tvi.reality.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT084TVIRealityHD.png" group-title="PT General",PT084:TVI Reality HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29406
+#EXTINF:-1 tvg-chno="32" tvg-id="rtp.memoria.pt" tvg-name="rtp.memoria.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT085RTPMEMóRIA.png" group-title="PT General",PT085:RTP MEMóRIA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29405
+#EXTINF:-1 tvg-chno="33" tvg-id="rtp.africa.pt" tvg-name="rtp.africa.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT086RTPáFRICA.png" group-title="PT General",PT086:RTP áFRICA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29404
+#EXTINF:-1 tvg-chno="34" tvg-id="rtp.acores.pt" tvg-name="rtp.acores.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT087RTPACORES.png" group-title="PT General",PT087:RTP ACORES
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29403
+#EXTINF:-1 tvg-chno="35" tvg-id="rtp.madeira.pt" tvg-name="rtp.madeira.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT088RTPMADEIRA.png" group-title="PT General",PT088:RTP MADEIRA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29402
+#EXTINF:-1 tvg-chno="36" tvg-id="cmtv.pt" tvg-name="cmtv.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT094CMTV.png" group-title="PT General",PT094:CM TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29396
+#EXTINF:-1 tvg-chno="37" tvg-id="canal.q.pt" tvg-name="canal.q.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT096CANALQ.png" group-title="PT General",PT096:CANAL Q
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29394
+#EXTINF:-1 tvg-chno="38" tvg-id="24.kitchen.pt" tvg-name="24.kitchen.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT09724KITCHEN.png" group-title="PT General",PT097:24 KITCHEN
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29393
+#EXTINF:-1 tvg-chno="39" tvg-id="blaze.pt" tvg-name="blaze.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT106Blaze.png" group-title="PT General",PT106:Blaze
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29384
+#EXTINF:-1 tvg-chno="40" tvg-id="bloomberg.pt" tvg-name="bloomberg.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png" group-title="PT General",PT107:BLOOMBERG
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29383
+#EXTINF:-1 tvg-chno="41" tvg-id="caca.e.pesca.pt" tvg-name="caca.e.pesca.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png" group-title="PT General",PT108:CACA E PESCA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29382
+#EXTINF:-1 tvg-chno="42" tvg-id="tvi.ficcao.pt" tvg-name="tvi.ficcao.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT109TVI FICCAO.png" group-title="PT General",PT109:TVI FICCAO HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29381
+#EXTINF:-1 tvg-chno="43" tvg-id="mcm.pop.pt" tvg-name="mcm.pop.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT110MCM POP.png" group-title="PT General",PT110:MCM POP
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29380
+#EXTINF:-1 tvg-chno="44" tvg-id="trace.urban.pt" tvg-name="trace.urban.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT111Trace Urban.png" group-title="PT General",PT111:Trace Urban
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29379
+#EXTINF:-1 tvg-chno="45" tvg-id="" tvg-name="PT115:TVCINE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT115TVCINE 2.png" group-title="PT General",PT115:TVCINE 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29375
+#EXTINF:-1 tvg-chno="46" tvg-id="clubbing.pt" tvg-name="clubbing.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT118TPA.png" group-title="PT General",PT118:TPA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29372
+#EXTINF:-1 tvg-chno="47" tvg-id="sky.news.pt" tvg-name="sky.news.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT125DOGTV.png" group-title="PT General",PT125:DOG TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29365
+#EXTINF:-1 tvg-chno="48" tvg-id="euronews.pt" tvg-name="euronews.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT126FOXNEWS.png" group-title="PT General",PT126:FOX NEWS
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29364
+#EXTINF:-1 tvg-chno="49" tvg-id="cacavision.pt" tvg-name="cacavision.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT127FIGHT NETWORH.png" group-title="PT General",PT127:CACAVISION
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29363
+#EXTINF:-1 tvg-chno="50" tvg-id="" tvg-name="PT128:FINE LIVING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT128FINELIVING.png" group-title="PT General",PT128:FINE LIVING
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29362
+#EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="PT129:RTP INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT129RTP INTERNACIONAL.png" group-title="PT General",PT129:RTP INTERNACIONAL
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29361
+#EXTINF:-1 tvg-chno="52" tvg-id="euronews.pt" tvg-name="euronews.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT130Euronews.png" group-title="PT General",PT130:Euronews
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29360
+#EXTINF:-1 tvg-chno="53" tvg-id="globo.now.pt" tvg-name="globo.now.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT132Globo Now.png" group-title="PT General",PT132:Globo Now HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29358
+#EXTINF:-1 tvg-chno="54" tvg-id="arte.pt" tvg-name="arte.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT133A Bola TV.png" group-title="PT General",PT133:A Bola TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29357
+#EXTINF:-1 tvg-chno="55" tvg-id="motorvision.pt" tvg-name="motorvision.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT135MOTORVISION TV.png" group-title="PT General",PT135:MOTORVISION TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29355
+#EXTINF:-1 tvg-chno="56" tvg-id="trace.toca.pt" tvg-name="trace.toca.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT137Trace TOCA.png" group-title="PT General",PT137:RTP Acores
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29353
+#EXTINF:-1 tvg-chno="57" tvg-id="mezzo.pt" tvg-name="mezzo.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT138MEZZOHD.png" group-title="PT General",PT138:MEZZO HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29352
+#EXTINF:-1 tvg-chno="58" tvg-id="mtv.live.pt" tvg-name="mtv.live.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT139MTVHD.png" group-title="PT General",PT139:MTV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29351
+#EXTINF:-1 tvg-chno="59" tvg-id="" tvg-name="PT140:ZAP VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT140ZAP VIVA.png" group-title="PT General",PT140:ZAP VIVA HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29350
+#EXTINF:-1 tvg-chno="60" tvg-id="localvisao.pt" tvg-name="localvisao.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT142Localvisao.png" group-title="PT General",PT142:Localvisao
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29348
+#EXTINF:-1 tvg-chno="61" tvg-id="globovision.pt" tvg-name="globovision.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT143Globo TV.png" group-title="PT General",PT143:Globo TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29347
+#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-name="PT147:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT147CBSReality.png" group-title="PT General",PT147:CBS Reality
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29343
+#EXTINF:-1 tvg-chno="63" tvg-id="record.news.pt" tvg-name="record.news.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT148CHELSEATV.png" group-title="PT General",PT148:CHELSEA TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29342
+#EXTINF:-1 tvg-chno="64" tvg-id="afro.music.pt" tvg-name="afro.music.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT150AfroMusic.png" group-title="PT General",PT150:Afro Music
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29340
+#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="PT152:TV FATIMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT152TV FATIMA.png" group-title="PT General",PT152:TV FATIMA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29338
+#EXTINF:-1 tvg-chno="66" tvg-id="sic.caras.pt" tvg-name="sic.caras.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT153SIC CARAS FHD.png" group-title="PT General",PT153:SIC CARAS
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29337
+#EXTINF:-1 tvg-chno="67" tvg-id="a.bola.pt" tvg-name="a.bola.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3248
+#EXTINF:-1 tvg-chno="68" tvg-id="btv1.pt" tvg-name="btv1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3239
+#EXTINF:-1 tvg-chno="69" tvg-id="btv1.pt" tvg-name="btv1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV1HD.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3238
+#EXTINF:-1 tvg-chno="70" tvg-id="btv.pt" tvg-name="btv.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV1SD.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3237
+#EXTINF:-1 tvg-chno="71" tvg-id="eurosport.1.pt" tvg-name="eurosport.1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3225
+#EXTINF:-1 tvg-chno="72" tvg-id="eurosport.2.pt" tvg-name="eurosport.2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3224
+#EXTINF:-1 tvg-chno="73" tvg-id="motors.es" tvg-name="motors.es" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3210
+#EXTINF:-1 tvg-chno="74" tvg-id="kombat.sport.pt" tvg-name="kombat.sport.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT042KombatSports.png" group-title="PT Sports",PT042:Kombat Sports
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3208
+#EXTINF:-1 tvg-chno="75" tvg-id="motorvision.pt" tvg-name="motorvision.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motor Vision
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3209
+#EXTINF:-1 tvg-chno="76" tvg-id="pfc.pt" tvg-name="pfc.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="PT Sports",PT144:PFC INTERNACIONAL
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29346
+#EXTINF:-1 tvg-chno="77" tvg-id="pfc.pt" tvg-name="pfc.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT Sports",PT049:PFC
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3201
+#EXTINF:-1 tvg-chno="78" tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3192
+#EXTINF:-1 tvg-chno="79" tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3191
+#EXTINF:-1 tvg-chno="80" tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3190
+#EXTINF:-1 tvg-chno="81" tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3189
+#EXTINF:-1 tvg-chno="82" tvg-id="sport.tv5.pt" tvg-name="sport.tv5.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3188
+#EXTINF:-1 tvg-chno="83" tvg-id="sport.plus.pt" tvg-name="sport.plus.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3187
+#EXTINF:-1 tvg-chno="84" tvg-id="sporting.pt" tvg-name="sporting.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3186
+#EXTINF:-1 tvg-chno="85" tvg-id="toros.pt" tvg-name="toros.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3183
+#EXTINF:-1 tvg-chno="86" tvg-id="eurosport.1.pt" tvg-name="eurosport.1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT093EUROSPORT.png" group-title="PT Sports",PT093:EUROSPORT
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29397
+#EXTINF:-1 tvg-chno="87" tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29392
+#EXTINF:-1 tvg-chno="88" tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29391
+#EXTINF:-1 tvg-chno="89" tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29390
+#EXTINF:-1 tvg-chno="90" tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29389
+#EXTINF:-1 tvg-chno="91" tvg-id="sport.tv5.pt" tvg-name="sport.tv5.pt" tvg-logo="" group-title="PT Sports",PT158:SPORT TV 5 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/49958
+#EXTINF:-1 tvg-chno="92" tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT102SPORTTV1SD.png" group-title="PT Sports",PT102:SPORT TV 1 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29388
+#EXTINF:-1 tvg-chno="93" tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT103SPORTTV2SD.png" group-title="PT Sports",PT103:SPORT TV 2 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29387
+#EXTINF:-1 tvg-chno="94" tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT104SPORTTV3SD.png" group-title="PT Sports",PT104:SPORT TV 3 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29386
+#EXTINF:-1 tvg-chno="95" tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29385
+#EXTINF:-1 tvg-chno="96" tvg-id="canal.11.pt" tvg-name="canal.11.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29378
+#EXTINF:-1 tvg-chno="97" tvg-id="cancao.nova.pt" tvg-name="cancao.nova.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29376
+#EXTINF:-1 tvg-chno="98" tvg-id="eleven.sports.1.pt" tvg-name="eleven.sports.1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29371
+#EXTINF:-1 tvg-chno="99" tvg-id="eleven.sports.2.pt" tvg-name="eleven.sports.2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29370
+#EXTINF:-1 tvg-chno="100" tvg-id="eleven.sports.3.pt" tvg-name="eleven.sports.3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29369
+#EXTINF:-1 tvg-chno="101" tvg-id="eleven.sports.4.pt" tvg-name="eleven.sports.4.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29368
+#EXTINF:-1 tvg-chno="102" tvg-id="sport.nba.pt" tvg-name="sport.nba.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png" group-title="PT Sports",PT124:Sport TV NBA
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29366
+#EXTINF:-1 tvg-chno="103" tvg-id="nba.pt" tvg-name="nba.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29349
+#EXTINF:-1 tvg-chno="104" tvg-id="canal.11.pt" tvg-name="canal.11.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT146CANAL 11.png" group-title="PT Sports",PT146:TCV CABO VERDE
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29344
+#EXTINF:-1 tvg-chno="105" tvg-id="eleven.sports.5.pt" tvg-name="eleven.sports.5.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29334
+#EXTINF:-1 tvg-chno="106" tvg-id="eleven.sports.1.pt" tvg-name="eleven.sports.1.pt" tvg-logo="" group-title="PT Sports",PT157:Eleven Sports 1 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/49966
+#EXTINF:-1 tvg-chno="107" tvg-id="eleven.sports.6.pt" tvg-name="eleven.sports.6.pt" tvg-logo="" group-title="PT Sports",PT159:Eleven Sports 6 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/49032
+#EXTINF:-1 tvg-chno="108" tvg-id="biggs.pt" tvg-name="biggs.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT091MCSLifestyleHD.png" group-title="PT Movies",PT091:BIGGS
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29399
+#EXTINF:-1 tvg-chno="109" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT001A&E.png" group-title="PT Movies",PT001:A&E
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3249
+#EXTINF:-1 tvg-chno="110" tvg-id="amc.pt" tvg-name="amc.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png" group-title="PT Movies",PT004:AMC
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3246
+#EXTINF:-1 tvg-chno="111" tvg-id="axn.pt" tvg-name="axn.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png" group-title="PT Movies",PT006:AXN
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3244
+#EXTINF:-1 tvg-chno="112" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png" group-title="PT Movies",PT007:AXN Black
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3243
+#EXTINF:-1 tvg-chno="113" tvg-id="axn.white.pt" tvg-name="axn.white.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png" group-title="PT Movies",PT008:AXN White
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3242
+#EXTINF:-1 tvg-chno="114" tvg-id="cinemundo.pt" tvg-name="cinemundo.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png" group-title="PT Movies",PT019:Cine Mundo
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3231
+#EXTINF:-1 tvg-chno="115" tvg-id="fox.comedy.pt" tvg-name="fox.comedy.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png" group-title="PT Movies",PT028:Fox Comedy
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3222
+#EXTINF:-1 tvg-chno="116" tvg-id="fox.crime.pt" tvg-name="fox.crime.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png" group-title="PT Movies",PT029:Fox Crime
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3221
+#EXTINF:-1 tvg-chno="117" tvg-id="fox.pt" tvg-name="fox.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png" group-title="PT Movies",PT030:Fox
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3220
+#EXTINF:-1 tvg-chno="118" tvg-id="fox.movies.pt" tvg-name="fox.movies.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png" group-title="PT Movies",PT032:Fox Movies
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3218
+#EXTINF:-1 tvg-chno="119" tvg-id="hollywood.pt" tvg-name="hollywood.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png" group-title="PT Movies",PT036:Hollywood
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3214
+#EXTINF:-1 tvg-chno="120" tvg-id="MCSExtreme.pt" tvg-name="MCSExtreme.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT038MCSExtreme.png" group-title="PT Movies",PT038:MCS Extreme
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3212
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="PT039:MOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png" group-title="PT Movies",PT039:MOV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3211
+#EXTINF:-1 tvg-chno="122" tvg-id="Tvcine1.pt" tvg-name="Tvcine1.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3181
+#EXTINF:-1 tvg-chno="123" tvg-id="Tvcine2.pt" tvg-name="Tvcine2.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3180
+#EXTINF:-1 tvg-chno="124" tvg-id="Tvcine3.pt" tvg-name="Tvcine3.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3179
+#EXTINF:-1 tvg-chno="125" tvg-id="Tvcine4.pt" tvg-name="Tvcine4.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3178
+#EXTINF:-1 tvg-chno="126" tvg-id="tv.globo.panorama.br" tvg-name="tv.globo.panorama.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT074TVGloboPremium.png" group-title="PT Movies",PT074:TV Globo Premium
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3176
+#EXTINF:-1 tvg-chno="127" tvg-id="" tvg-name="PT076:TVC Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT076TVCSeries.png" group-title="PT Movies",PT076:TVC Series
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3174
+#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29398
+#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="PT131:TVCINE 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png" group-title="PT Movies",PT131:TVCINE 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29359
+#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="PT155:TV Cine 4 Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png" group-title="PT Movies",PT155:TV Cine 4 Action FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29335
+#EXTINF:-1 tvg-chno="131" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT014CanalHistoria.png" group-title="PT Doc",PT014:Canal Historia
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3236
+#EXTINF:-1 tvg-chno="132" tvg-id="discovery.pt" tvg-name="discovery.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT020DiscoveryChannel.png" group-title="PT Doc",PT020:Discovery Channel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3230
+#EXTINF:-1 tvg-chno="133" tvg-id="discovery.hd.showcase.se" tvg-name="discovery.hd.showcase.se" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png" group-title="PT Doc",PT021:Discovery Showcase
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3229
+#EXTINF:-1 tvg-chno="134" tvg-id="historia.pt" tvg-name="historia.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT035Historia.png" group-title="PT Doc",PT035:Historia
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3215
+#EXTINF:-1 tvg-chno="135" tvg-id="national.geographic.wild.pt" tvg-name="national.geographic.wild.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT044NATGEOWild.png" group-title="PT Doc",PT044:NAT GEO Wild
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3206
+#EXTINF:-1 tvg-chno="136" tvg-id="national.geographic.pt" tvg-name="national.geographic.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT045NATGEO.png" group-title="PT Doc",PT045:NAT GEO
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3205
+#EXTINF:-1 tvg-chno="137" tvg-id="odisseia.pt" tvg-name="odisseia.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT047Odisseia.png" group-title="PT Doc",PT047:Odisseia
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3203
+#EXTINF:-1 tvg-chno="138" tvg-id="national.geographic.pt" tvg-name="national.geographic.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT090NATIONALGEOGRAPHIC.png" group-title="PT Doc",PT090:NATIONAL GEOGRAPHIC FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29400
+#EXTINF:-1 tvg-chno="139" tvg-id="cmtv.pt" tvg-name="cmtv.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT113CMTVFHD.png" group-title="PT Doc",PT113:CMTV FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29377
+#EXTINF:-1 tvg-chno="140" tvg-id="crime.plus.investigation.pt" tvg-name="crime.plus.investigation.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT116CrimeInvestigation.png" group-title="PT Doc",PT116:Crime & Investigation
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29374
+#EXTINF:-1 tvg-chno="141" tvg-id="eleven.sports.6.pt" tvg-name="eleven.sports.6.pt" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT123INVESTIGATIONDISCOVERYHD.png" group-title="PT Doc",PT123:INVESTIGATION DISCOVERY HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29367
+#EXTINF:-1 tvg-chno="142" tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" group-title="BR Noticias",BR045:Globo News HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2487
+#EXTINF:-1 tvg-chno="143" tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png" group-title="BR Noticias",BR176:Globo News FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65731
+#EXTINF:-1 tvg-chno="144" tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR177GloboNewsSD.png" group-title="BR Noticias",BR177:Globo News SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65732
+#EXTINF:-1 tvg-chno="145" tvg-id="band.news.br" tvg-name="band.news.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png" group-title="BR Noticias",BR007:Band News HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2525
+#EXTINF:-1 tvg-chno="146" tvg-id="band.news.br" tvg-name="band.news.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR116BandNewsSD.png" group-title="BR Noticias",BR116:Band News SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65671
+#EXTINF:-1 tvg-chno="147" tvg-id="cnn.br" tvg-name="cnn.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png" group-title="BR Noticias",BR079:CNN BRASIL HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2453
+#EXTINF:-1 tvg-chno="148" tvg-id="arte.1.br" tvg-name="arte.1.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR004Arte1.png" group-title="BR Variedades",BR004:Arte 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2528
+#EXTINF:-1 tvg-chno="149" tvg-id="arte.1.br" tvg-name="arte.1.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR110Arte1FHD.png" group-title="BR Variedades",BR110:Arte 1 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65665
+#EXTINF:-1 tvg-chno="150" tvg-id="arte.1.br" tvg-name="arte.1.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR111Arte1SD.png" group-title="BR Variedades",BR111:Arte 1 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65666
+#EXTINF:-1 tvg-chno="151" tvg-id="comedy.central.br" tvg-name="comedy.central.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR128comedycentralFHD.png" group-title="BR Variedades",BR128:comedy central FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65683
+#EXTINF:-1 tvg-chno="152" tvg-id="comedy.central.br" tvg-name="comedy.central.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" group-title="BR Variedades",BR016:Comedy Central HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2516
+#EXTINF:-1 tvg-chno="153" tvg-id="comedy.central.br" tvg-name="comedy.central.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR129comedycentralSD.png" group-title="BR Variedades",BR129:comedy central SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65684
+#EXTINF:-1 tvg-chno="154" tvg-id="discovery.home.health.br" tvg-name="discovery.home.health.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR134DiscoveryHomeHealthFHD.png" group-title="BR Variedades",BR134:Discovery Home & Health FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65689
+#EXTINF:-1 tvg-chno="155" tvg-id="discovery.home.health.br" tvg-name="discovery.home.health.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" group-title="BR Variedades",BR020:Discovery Home Health HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2512
+#EXTINF:-1 tvg-chno="156" tvg-id="discovery.home.health.br" tvg-name="discovery.home.health.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR135DiscoveryHomeHealthSD.png" group-title="BR Variedades",BR135:Discovery Home & Health SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65690
+#EXTINF:-1 tvg-chno="157" tvg-id="e.br" tvg-name="e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" group-title="BR Variedades",BR029:E! HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2503
+#EXTINF:-1 tvg-chno="158" tvg-id="e.br" tvg-name="e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR153E!SD.png" group-title="BR Variedades",BR153:E! SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65708
+#EXTINF:-1 tvg-chno="159" tvg-id="food.network.br" tvg-name="food.network.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR160FoodNetworkFHD.png" group-title="BR Variedades",BR160:Food Network FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65715
+#EXTINF:-1 tvg-chno="160" tvg-id="food.network.br" tvg-name="food.network.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR037FoodNetworkBR.png" group-title="BR Variedades",BR037:Food Network HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2495
+#EXTINF:-1 tvg-chno="161" tvg-id="food.network.br" tvg-name="food.network.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR161FoodNetworkSD.png" group-title="BR Variedades",BR161:Food Network SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65716
+#EXTINF:-1 tvg-chno="162" tvg-id="fox.life.br" tvg-name="fox.life.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" group-title="BR Variedades",BR039:Fox Life HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2493
+#EXTINF:-1 tvg-chno="163" tvg-id="fox.life.br" tvg-name="fox.life.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR163FoxLifeSD.png" group-title="BR Variedades",BR163:Fox Life SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65718
+#EXTINF:-1 tvg-chno="164" tvg-id="mais.globosat.br" tvg-name="mais.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR060MaisGlobosat.png" group-title="BR Variedades",BR060:Mais Globosat
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2472
+#EXTINF:-1 tvg-chno="165" tvg-id="gnt.br" tvg-name="gnt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" group-title="BR Variedades",BR050:GNT HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2482
+#EXTINF:-1 tvg-chno="166" tvg-id="gnt.br" tvg-name="gnt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR183GntSD.png" group-title="BR Variedades",BR183:Gnt SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65738
+#EXTINF:-1 tvg-chno="167" tvg-id="lifetime.br" tvg-name="lifetime.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades",BR059:Lifetime HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2473
+#EXTINF:-1 tvg-chno="168" tvg-id="lifetime.br" tvg-name="lifetime.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR202LifetimeSD.png" group-title="BR Variedades",BR202:Lifetime SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65757
+#EXTINF:-1 tvg-chno="169" tvg-id="rede.vida.br" tvg-name="rede.vida.br" tvg-logo="" group-title="BR Variedades",BR273:REDE VIDA HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/49959
+#EXTINF:-1 tvg-chno="170" tvg-id="viva.br" tvg-name="viva.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades",BR264:Viva FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65819
+#EXTINF:-1 tvg-chno="171" tvg-id="viva.br" tvg-name="viva.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades",BR035:VIVA HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2497
+#EXTINF:-1 tvg-chno="172" tvg-id="viva.br" tvg-name="viva.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR265VivaSD.png" group-title="BR Variedades",BR265:Viva SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65820
+#EXTINF:-1 tvg-chno="173" tvg-id="band.sports.br" tvg-name="band.sports.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR008BandSports.png" group-title="BR Esportes",BR008:Band Sports HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2524
+#EXTINF:-1 tvg-chno="174" tvg-id="combate.br" tvg-name="combate.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR015Combate.png" group-title="BR Esportes",BR015:Combate HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2517
+#EXTINF:-1 tvg-chno="175" tvg-id="espn.br" tvg-name="espn.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR033ESPN.png" group-title="BR Esportes",BR033:ESPN HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2499
+#EXTINF:-1 tvg-chno="176" tvg-id="espn.brasil.br" tvg-name="espn.brasil.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR031ESPNBRASIL.png" group-title="BR Esportes",BR031:ESPN BRASIL HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2501
+#EXTINF:-1 tvg-chno="177" tvg-id="" tvg-name="BR156:Espn Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR156EspnExtraSD.png" group-title="BR Esportes",BR156:Espn Extra FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65711
+#EXTINF:-1 tvg-chno="178" tvg-id="espn.extra.br" tvg-name="espn.extra.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR030ESPNExtra.png" group-title="BR Esportes",BR030:ESPN Extra HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2502
+#EXTINF:-1 tvg-chno="179" tvg-id="sony.br" tvg-name="sony.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR012CanalSony.png" group-title="BR Esportes",BR012:FISH TV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2520
+#EXTINF:-1 tvg-chno="180" tvg-id="" tvg-name="BR159:Fish TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR159FishTVSD.png" group-title="BR Esportes",BR159:Fish TV SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65714
+#EXTINF:-1 tvg-chno="181" tvg-id="off.br" tvg-name="off.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png" group-title="BR Esportes",BR073:Off HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2459
+#EXTINF:-1 tvg-chno="182" tvg-id="fox.sports.2.br" tvg-name="fox.sports.2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR042FoxSports2BR.png" group-title="BR Esportes",BR042:Fox Sports 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2490
+#EXTINF:-1 tvg-chno="183" tvg-id="" tvg-name="BR171:Fox Sports FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR171FoxSportsFHD.png" group-title="BR Esportes",BR171:Fox Sports FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65726
+#EXTINF:-1 tvg-chno="184" tvg-id="fox.sports.br" tvg-name="fox.sports.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR043FoxSports1.png" group-title="BR Esportes",BR043:Fox Sports 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2489
+#EXTINF:-1 tvg-chno="185" tvg-id="sportv.3.br" tvg-name="sportv.3.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png" group-title="BR Esportes",BR088:Sport TV 3 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2444
+#EXTINF:-1 tvg-chno="186" tvg-id="sportv.2.br" tvg-name="sportv.2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png" group-title="BR Esportes",BR087:Sport TV 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2445
+#EXTINF:-1 tvg-chno="187" tvg-id="sportv.br" tvg-name="sportv.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png" group-title="BR Esportes",BR089:Sport TV 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2443
+#EXTINF:-1 tvg-chno="188" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" group-title="BR Esportes",BR034:DAZN 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2498
+#EXTINF:-1 tvg-chno="189" tvg-id="woohoo.br" tvg-name="woohoo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR032WOOHOO.png" group-title="BR Esportes",BR032:WOOHOO HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2500
+#EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="BR268:Woohoo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png" group-title="BR Esportes",BR268:Woohoo FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65823
+#EXTINF:-1 tvg-chno="191" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR104AEFHD.png" group-title="BR Filmes e Series",BR104:A&E FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65659
+#EXTINF:-1 tvg-chno="192" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BR Filmes e Series",BR001:A&E HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2531
+#EXTINF:-1 tvg-chno="193" tvg-id="a.e.br" tvg-name="a.e.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR105A&ESD.png" group-title="BR Filmes e Series",BR105:A&E SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65660
+#EXTINF:-1 tvg-chno="194" tvg-id="amc.br" tvg-name="amc.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR106AMCFHD.png" group-title="BR Filmes e Series",BR106:AMC FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65661
+#EXTINF:-1 tvg-chno="195" tvg-id="amc.br" tvg-name="amc.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" group-title="BR Filmes e Series",BR002:AMC HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2530
+#EXTINF:-1 tvg-chno="196" tvg-id="amc.br" tvg-name="amc.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR107AMCSD.png" group-title="BR Filmes e Series",BR107:AMC SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65662
+#EXTINF:-1 tvg-chno="197" tvg-id="axn.br" tvg-name="axn.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR112AXNFHD.png" group-title="BR Filmes e Series",BR112:AXN FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65667
+#EXTINF:-1 tvg-chno="198" tvg-id="axn.br" tvg-name="axn.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="BR Filmes e Series",BR005:AXN HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2527
+#EXTINF:-1 tvg-chno="199" tvg-id="axn.br" tvg-name="axn.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png" group-title="BR Filmes e Series",BR113:AXN SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65668
+#EXTINF:-1 tvg-chno="200" tvg-id="cinemax.br" tvg-name="cinemax.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR122CinemaxFHD.png" group-title="BR Filmes e Series",BR122:Cinemax FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65677
+#EXTINF:-1 tvg-chno="201" tvg-id="cinemax.br" tvg-name="cinemax.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="BR Filmes e Series",BR014:Cinemax HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2518
+#EXTINF:-1 tvg-chno="202" tvg-id="cinemax.br" tvg-name="cinemax.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR123CinemaxSD.png" group-title="BR Filmes e Series",BR123:Cinemax SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65678
+#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-name="BR162:Fox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="BR Filmes e Series",BR162:Fox FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65717
+#EXTINF:-1 tvg-chno="204" tvg-id="fox.br" tvg-name="fox.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="BR Filmes e Series",BR038:Fox HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2494
+#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="BR168:Fox SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR168FoxSD.png" group-title="BR Filmes e Series",BR168:Fox SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65723
+#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-name="BR164:Fox Premium 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="BR Filmes e Series",BR164:Fox Premium 1 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65719
+#EXTINF:-1 tvg-chno="207" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="BR Filmes e Series",BR040:Fox Permium 1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2492
+#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-name="BR165:Fox Premium 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR165FoxPremium1SD.png" group-title="BR Filmes e Series",BR165:Fox Premium 1 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65720
+#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name="BR166:Fox Premium 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR166FoxPremium2FHD.png" group-title="BR Filmes e Series",BR166:Fox Premium 2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65721
+#EXTINF:-1 tvg-chno="210" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="BR Filmes e Series",BR041:Fox Premium 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2491
+#EXTINF:-1 tvg-chno="211" tvg-id="" tvg-name="BR167:Fox Premium 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR167FoxPremium2SD.png" group-title="BR Filmes e Series",BR167:Fox Premium 2 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65722
+#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-name="BR173:Fx FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png" group-title="BR Filmes e Series",BR173:Fx FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65728
+#EXTINF:-1 tvg-chno="213" tvg-id="fx.br" tvg-name="fx.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="BR Filmes e Series",BR044:FX HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2488
+#EXTINF:-1 tvg-chno="214" tvg-id="" tvg-name="BR174:Fx SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="BR Filmes e Series",BR174:Fx SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65729
+#EXTINF:-1 tvg-chno="215" tvg-id="max.br" tvg-name="max.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="BR Filmes e Series",BR061:Max
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2471
+#EXTINF:-1 tvg-chno="216" tvg-id="max.prime.br" tvg-name="max.prime.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png" group-title="BR Filmes e Series",BR062:Max Prime
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2470
+#EXTINF:-1 tvg-chno="217" tvg-id="max.up.br" tvg-name="max.up.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png" group-title="BR Filmes e Series",BR063:Max Up
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2469
+#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-name="BR203:Megapix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR203MegapixFHD.png" group-title="BR Filmes e Series",BR203:Megapix FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65758
+#EXTINF:-1 tvg-chno="219" tvg-id="megapix.br" tvg-name="megapix.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="BR Filmes e Series",BR064:MegaPix HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2468
+#EXTINF:-1 tvg-chno="220" tvg-id="" tvg-name="BR204:Megapix SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR204MegapixSD.png" group-title="BR Filmes e Series",BR204:Megapix SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65759
+#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-name="BR218:Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png" group-title="BR Filmes e Series",BR218:Paramount Channel FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65773
+#EXTINF:-1 tvg-chno="222" tvg-id="paramount.br" tvg-name="paramount.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="BR Filmes e Series",BR074:Paramount Channel HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2458
+#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-name="BR219:Paramount Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR219ParamountChannelSD.png" group-title="BR Filmes e Series",BR219:Paramount Channel SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65774
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="BR232:Space FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR232SpaceFHD.png" group-title="BR Filmes e Series",BR232:Space FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65787
+#EXTINF:-1 tvg-chno="225" tvg-id="space.br" tvg-name="space.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" group-title="BR Filmes e Series",BR086:Space HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2446
+#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-name="BR233:Space SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR233SpaceSD.png" group-title="BR Filmes e Series",BR233:Space SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65788
+#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-name="BR240:Studio Universal FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR240StudioUniversalFHD.png" group-title="BR Filmes e Series",BR240:Studio Universal FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65795
+#EXTINF:-1 tvg-chno="228" tvg-id="studio.universal.br" tvg-name="studio.universal.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="BR Filmes e Series",BR090:Studio Universal HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2442
+#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="BR241:Studio Universal SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR241StudioUniversalSD.png" group-title="BR Filmes e Series",BR241:Studio Universal SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65796
+#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="BR242:Syfy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR242SyfyFHD.png" group-title="BR Filmes e Series",BR242:Syfy FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65797
+#EXTINF:-1 tvg-chno="231" tvg-id="syfy.br" tvg-name="syfy.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="BR Filmes e Series",BR091:SYFY HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2441
+#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="BR243:Syfy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR243SyfySD.png" group-title="BR Filmes e Series",BR243:Syfy SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65798
+#EXTINF:-1 tvg-chno="233" tvg-id="tlc.br" tvg-name="tlc.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="BR Filmes e Series",BR099:TLC HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2433
+#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="BR244:Tbs FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png" group-title="BR Filmes e Series",BR244:Tbs FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65799
+#EXTINF:-1 tvg-chno="235" tvg-id="tbs.br" tvg-name="tbs.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="BR Filmes e Series",BR092:TBS HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2440
+#EXTINF:-1 tvg-chno="236" tvg-id="warner.br" tvg-name="warner.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png" group-title="BR Filmes e Series",BR082:Warner Channel HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2450
+#EXTINF:-1 tvg-chno="237" tvg-id="" tvg-name="BR267:Warner Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR267WarnerChannelSD.png" group-title="BR Filmes e Series",BR267:Warner Channel SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65822
+#EXTINF:-1 tvg-chno="238" tvg-id="" tvg-name="BR257:TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR257TNTFHD.png" group-title="BR Filmes e Series",BR257:TNT FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65812
+#EXTINF:-1 tvg-chno="239" tvg-id="tnt.br" tvg-name="tnt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="BR Filmes e Series",BR100:TNT HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2432
+#EXTINF:-1 tvg-chno="240" tvg-id="" tvg-name="BR258:TNT SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR258TNTSD.png" group-title="BR Filmes e Series",BR258:TNT SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65813
+#EXTINF:-1 tvg-chno="241" tvg-id="" tvg-name="BR261:Universal Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png" group-title="BR Filmes e Series",BR261:Universal Channel FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65816
+#EXTINF:-1 tvg-chno="242" tvg-id="universal.br" tvg-name="universal.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png" group-title="BR Filmes e Series",BR103:Universal Channel HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2429
+#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="BR262:Universal Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR262UniversalChannelSD.png" group-title="BR Filmes e Series",BR262:Universal Channel SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65817
+#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="BR259:TNT Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR259TNTSeriesFHD.png" group-title="BR Filmes e Series",BR259:TNT Series FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65814
+#EXTINF:-1 tvg-chno="245" tvg-id="tnt.series.br" tvg-name="tnt.series.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="BR Filmes e Series",BR101:TNT Series  HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2431
+#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-name="BR260:TNT Series SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR260TNTSeriesSD.png" group-title="BR Filmes e Series",BR260:TNT Series SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65815
+#EXTINF:-1 tvg-chno="247" tvg-id="" tvg-name="BR272:CANAL BRASIL" tvg-logo="" group-title="BR Filmes e Series",BR272:CANAL BRASIL
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/66008
+#EXTINF:-1 tvg-chno="248" tvg-id="vh1.br" tvg-name="vh1.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png" group-title="BR Musicas",BR009:VH1 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2523
+#EXTINF:-1 tvg-chno="249" tvg-id="bis.br" tvg-name="bis.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" group-title="BR Musicas",BR010:BIS HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2522
+#EXTINF:-1 tvg-chno="250" tvg-id="mtv.br" tvg-name="mtv.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png" group-title="BR Musicas",BR205:Mtv FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65760
+#EXTINF:-1 tvg-chno="251" tvg-id="mtv.br" tvg-name="mtv.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png" group-title="BR Musicas",BR065:MTV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2467
+#EXTINF:-1 tvg-chno="252" tvg-id="multishow.br" tvg-name="multishow.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR207MultishowFHD.png" group-title="BR Musicas",BR207:Multishow FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65762
+#EXTINF:-1 tvg-chno="253" tvg-id="multishow.br" tvg-name="multishow.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR066Multishow.png" group-title="BR Musicas",BR066:Multishow HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2466
+#EXTINF:-1 tvg-chno="254" tvg-id="music.box.brasil.br" tvg-name="music.box.brasil.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png" group-title="BR Musicas",BR209:Music Box SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65764
+#EXTINF:-1 tvg-chno="255" tvg-id="music.box.brasil.br" tvg-name="music.box.brasil.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR067MusicBox.png" group-title="BR Musicas",BR067:BG MUSIC HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2465
+#EXTINF:-1 tvg-chno="256" tvg-id="hbo.br" tvg-name="hbo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR189HboFHD.png" group-title="BR HBO",BR189:Hbo FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65744
+#EXTINF:-1 tvg-chno="257" tvg-id="hbo.br" tvg-name="hbo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="BR HBO",BR054:HBO HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2478
+#EXTINF:-1 tvg-chno="258" tvg-id="hbo.br" tvg-name="hbo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR193HBOSD.png" group-title="BR HBO",BR193:Hbo SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65748
+#EXTINF:-1 tvg-chno="259" tvg-id="hbo.2.br" tvg-name="hbo.2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR186Hbo2FHD.png" group-title="BR HBO",BR186:Hbo 2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65741
+#EXTINF:-1 tvg-chno="260" tvg-id="hbo.2.br" tvg-name="hbo.2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="BR HBO",BR052:HBO 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2480
+#EXTINF:-1 tvg-chno="261" tvg-id="hbo.2.br" tvg-name="hbo.2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR187Hbo2SD.png" group-title="BR HBO",BR187:Hbo 2 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65742
+#EXTINF:-1 tvg-chno="262" tvg-id="hbo.family.br" tvg-name="hbo.family.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png" group-title="BR HBO",BR053:HBO Family HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2479
+#EXTINF:-1 tvg-chno="263" tvg-id="hbo.family.br" tvg-name="hbo.family.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png" group-title="BR HBO",BR188:Hbo family SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65743
+#EXTINF:-1 tvg-chno="264" tvg-id="hbo.plus.br" tvg-name="hbo.plus.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR191HboPlusFHD.png" group-title="BR HBO",BR191:Hbo Plus FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65746
+#EXTINF:-1 tvg-chno="265" tvg-id="hbo.plus.br" tvg-name="hbo.plus.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="BR HBO",BR055:HBO Plus HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2477
+#EXTINF:-1 tvg-chno="266" tvg-id="hbo.plus.br" tvg-name="hbo.plus.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR192HboPlusSD.png" group-title="BR HBO",BR192:Hbo Plus SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65747
+#EXTINF:-1 tvg-chno="267" tvg-id="hbo.signature.br" tvg-name="hbo.signature.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR194HboSignatureFHD.png" group-title="BR HBO",BR194:Hbo Signature FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65749
+#EXTINF:-1 tvg-chno="268" tvg-id="hbo.signature.br" tvg-name="hbo.signature.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="BR HBO",BR056:HBO Signature HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2476
+#EXTINF:-1 tvg-chno="269" tvg-id="hbo.signature.br" tvg-name="hbo.signature.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR195HboSignatureSD.png" group-title="BR HBO",BR195:Hbo Signature SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65750
+#EXTINF:-1 tvg-chno="270" tvg-id="hbo.xtreme.br" tvg-name="hbo.xtreme.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png" group-title="BR HBO",BR196:Hbo Xtreme FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65751
+#EXTINF:-1 tvg-chno="271" tvg-id="hbo.xtreme.br" tvg-name="hbo.xtreme.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png" group-title="BR HBO",BR197:Hbo Xtreme SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65752
+#EXTINF:-1 tvg-chno="272" tvg-id="hbo.mundi.br" tvg-name="hbo.mundi.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" group-title="BR HBO",BR190:Hbo Mundi SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65745
+#EXTINF:-1 tvg-chno="273" tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR245TelecineActionFHD.png" group-title="BR Telecine",BR245:Telecine Action FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65800
+#EXTINF:-1 tvg-chno="274" tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="BR Telecine",BR093:Telecine Action HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2439
+#EXTINF:-1 tvg-chno="275" tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR246TelecineActionSD.png" group-title="BR Telecine",BR246:Telecine Action SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65801
+#EXTINF:-1 tvg-chno="276" tvg-id="telecine.cult.br" tvg-name="telecine.cult.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR247TelecineCultFHD.png" group-title="BR Telecine",BR247:Telecine Cult FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65802
+#EXTINF:-1 tvg-chno="277" tvg-id="telecine.cult.br" tvg-name="telecine.cult.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png" group-title="BR Telecine",BR094:Telecine Cult HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2438
+#EXTINF:-1 tvg-chno="278" tvg-id="telecine.cult.br" tvg-name="telecine.cult.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png" group-title="BR Telecine",BR248:Telecine Cult SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65803
+#EXTINF:-1 tvg-chno="279" tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR251TelecinePipocaFHD.png" group-title="BR Telecine",BR251:Telecine Pipoca FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65806
+#EXTINF:-1 tvg-chno="280" tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="BR Telecine",BR096:Telecine Pipoca HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2436
+#EXTINF:-1 tvg-chno="281" tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR252TelecinePipocaSD.png" group-title="BR Telecine",BR252:Telecine Pipoca SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65807
+#EXTINF:-1 tvg-chno="282" tvg-id="telecine.fun.br" tvg-name="telecine.fun.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR249TelecineFunFHD.png" group-title="BR Telecine",BR249:Telecine Fun FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65804
+#EXTINF:-1 tvg-chno="283" tvg-id="telecine.fun.br" tvg-name="telecine.fun.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png" group-title="BR Telecine",BR095:Telecine Fun HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2437
+#EXTINF:-1 tvg-chno="284" tvg-id="telecine.fun.br" tvg-name="telecine.fun.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR250TelecineFunSD.png" group-title="BR Telecine",BR250:Telecine Fun SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65805
+#EXTINF:-1 tvg-chno="285" tvg-id="fox.premium.action.br" tvg-name="fox.premium.action.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR253TelecinePremiumFHD.png" group-title="BR Telecine",BR253:Telecine Premium FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65808
+#EXTINF:-1 tvg-chno="286" tvg-id="telecine.premium.br" tvg-name="telecine.premium.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png" group-title="BR Telecine",BR097:Telecine Premium HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2435
+#EXTINF:-1 tvg-chno="287" tvg-id="telecine.premium.br" tvg-name="telecine.premium.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png" group-title="BR Telecine",BR254:Telecine Premium SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65809
+#EXTINF:-1 tvg-chno="288" tvg-id="telecine.touch.br" tvg-name="telecine.touch.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" group-title="BR Telecine",BR255:Telecine Touch FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65810
+#EXTINF:-1 tvg-chno="289" tvg-id="telecine.touch.br" tvg-name="telecine.touch.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="BR Telecine",BR098:Telecine Touch HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2434
+#EXTINF:-1 tvg-chno="290" tvg-id="telecine.touch.br" tvg-name="telecine.touch.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR256TelecineTouchSD.png" group-title="BR Telecine",BR256:Telecine Touch SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65811
+#EXTINF:-1 tvg-chno="291" tvg-id="" tvg-name="BR220:Premiere 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR220Premiere2FHD.png" group-title="BR Premiere",BR220:Premiere 2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65775
+#EXTINF:-1 tvg-chno="292" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="BR Premiere",BR075:Premiere 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2457
+#EXTINF:-1 tvg-chno="293" tvg-id="" tvg-name="BR221:Premiere 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR221Premiere2SD.png" group-title="BR Premiere",BR221:Premiere 2 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65776
+#EXTINF:-1 tvg-chno="294" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="BR Premiere",BR076:Premiere 3 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2456
+#EXTINF:-1 tvg-chno="295" tvg-id="" tvg-name="BR222:Premiere 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR222Premiere3SD.png" group-title="BR Premiere",BR222:Premiere 3 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65777
+#EXTINF:-1 tvg-chno="296" tvg-id="" tvg-name="BR223:Premiere 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR223Premiere4FHD.png" group-title="BR Premiere",BR223:Premiere 4 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65778
+#EXTINF:-1 tvg-chno="297" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png" group-title="BR Premiere",BR077:Premiere 4 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2455
+#EXTINF:-1 tvg-chno="298" tvg-id="" tvg-name="BR224:Premiere 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR224Premiere4SD.png" group-title="BR Premiere",BR224:Premiere 4 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65779
+#EXTINF:-1 tvg-chno="299" tvg-id="" tvg-name="BR225:Premiere 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR225Premiere5FHD.png" group-title="BR Premiere",BR225:Premiere 5 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65780
+#EXTINF:-1 tvg-chno="300" tvg-id="+.globosat.br" tvg-name="+.globosat.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png" group-title="BR Premiere",BR078:Premiere 5 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2454
+#EXTINF:-1 tvg-chno="301" tvg-id="" tvg-name="BR226:Premiere 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR226Premiere5SD.png" group-title="BR Premiere",BR226:Premiere 5 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65781
+#EXTINF:-1 tvg-chno="302" tvg-id="" tvg-name="BR227:Premiere Clubes FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR227PremiereClubesFHD.png" group-title="BR Premiere",BR227:Premiere Clubes FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65782
+#EXTINF:-1 tvg-chno="303" tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png" group-title="BR Premiere",BR081:Premiere Clubes HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2451
+#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="BR228:Premiere Clubes SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR228PremiereClubesSD.png" group-title="BR Premiere",BR228:Premiere Clubes SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65783
+#EXTINF:-1 tvg-chno="305" tvg-id="animal.planet.br" tvg-name="animal.planet.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" group-title="BR Documentarios",BR108:Animal Planet FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65663
+#EXTINF:-1 tvg-chno="306" tvg-id="animal.planet.br" tvg-name="animal.planet.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR003AnimalPlanetBR.png" group-title="BR Documentarios",BR003:Animal Planet HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2529
+#EXTINF:-1 tvg-chno="307" tvg-id="discovery.br" tvg-name="discovery.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR018DiscoveryBR.png" group-title="BR Documentarios",BR018:Discovery HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2514
+#EXTINF:-1 tvg-chno="308" tvg-id="discovery.civilization.br" tvg-name="discovery.civilization.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" group-title="BR Documentarios",BR019:Discovery Civilization HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2513
+#EXTINF:-1 tvg-chno="309" tvg-id="discovery.civilization.br" tvg-name="discovery.civilization.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR132DiscoveryCivilizationFHD.png" group-title="BR Documentarios",BR132:Discovery Civilization FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65687
+#EXTINF:-1 tvg-chno="310" tvg-id="discovery.science.br" tvg-name="discovery.science.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR138DiscoveryScienceFHD.png" group-title="BR Documentarios",BR138:Discovery Science FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65693
+#EXTINF:-1 tvg-chno="311" tvg-id="discovery.science.br" tvg-name="discovery.science.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR022DiscoveryScienceBR.png" group-title="BR Documentarios",BR022:Discovery Science HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2510
+#EXTINF:-1 tvg-chno="312" tvg-id="discovery.science.br" tvg-name="discovery.science.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR139DiscoveryScienceSD.png" group-title="BR Documentarios",BR139:Discovery Science SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65694
+#EXTINF:-1 tvg-chno="313" tvg-id="discovery.theater.br" tvg-name="discovery.theater.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" group-title="BR Documentarios",BR023:Discovery Theater HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2509
+#EXTINF:-1 tvg-chno="314" tvg-id="discovery.turbo.br" tvg-name="discovery.turbo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR024DiscoveryTurbo.png" group-title="BR Documentarios",BR024:Discovery Turbo HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2508
+#EXTINF:-1 tvg-chno="315" tvg-id="discovery.turbo.br" tvg-name="discovery.turbo.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR144DiscoveryTurboSD.png" group-title="BR Documentarios",BR144:Discovery Turbo SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65699
+#EXTINF:-1 tvg-chno="316" tvg-id="discovery.world.br" tvg-name="discovery.world.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" group-title="BR Documentarios",BR145:Discovery World FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65700
+#EXTINF:-1 tvg-chno="317" tvg-id="discovery.world.br" tvg-name="discovery.world.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="BR Documentarios",BR025:Discovery World HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2507
+#EXTINF:-1 tvg-chno="318" tvg-id="discovery.world.br" tvg-name="discovery.world.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR146DiscoveryWorldSD.png" group-title="BR Documentarios",BR146:Discovery World SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65701
+#EXTINF:-1 tvg-chno="319" tvg-id="investigation.discovery.br" tvg-name="investigation.discovery.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" group-title="BR Documentarios",BR058:Investigacao Discovery HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2474
+#EXTINF:-1 tvg-chno="320" tvg-id="investigacao.discovery.br" tvg-name="investigacao.discovery.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR201InvestigacaoDiscoverySD.png" group-title="BR Documentarios",BR201:Investigacao Discovery SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65756
+#EXTINF:-1 tvg-chno="321" tvg-id="h2.br" tvg-name="h2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR184H2FHD.png" group-title="BR Documentarios",BR184:H2 FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65739
+#EXTINF:-1 tvg-chno="322" tvg-id="h2.br" tvg-name="h2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR051H2BR.png" group-title="BR Documentarios",BR051:H2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2481
+#EXTINF:-1 tvg-chno="323" tvg-id="h2.br" tvg-name="h2.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR185H2SD.png" group-title="BR Documentarios",BR185:H2 SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65740
+#EXTINF:-1 tvg-chno="324" tvg-id="history.br" tvg-name="history.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR198HistoryChannelFHD.png" group-title="BR Documentarios",BR198:History Channel FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65753
+#EXTINF:-1 tvg-chno="325" tvg-id="history.br" tvg-name="history.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" group-title="BR Documentarios",BR057:History HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2475
+#EXTINF:-1 tvg-chno="326" tvg-id="history.br" tvg-name="history.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR199HistoryChannelSD.png" group-title="BR Documentarios",BR199:History Channel SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65754
+#EXTINF:-1 tvg-chno="327" tvg-id="national.geographic.br" tvg-name="national.geographic.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR068NATGEOBR.png" group-title="BR Documentarios",BR068:NAT GEO HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2464
+#EXTINF:-1 tvg-chno="328" tvg-id="natgeo.wild.br" tvg-name="natgeo.wild.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR070NATGEOWildBR.png" group-title="BR Documentarios",BR070:NAT GEO Wild HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2462
+#EXTINF:-1 tvg-chno="329" tvg-id="nat.geo.wild.br" tvg-name="nat.geo.wild.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR212NatGeoWildFHD.png" group-title="BR Documentarios",BR212:Nat Geo Wild FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65767
+#EXTINF:-1 tvg-chno="330" tvg-id="nat.geo.wild.br" tvg-name="nat.geo.wild.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR213NatGeoWildSD.png" group-title="BR Documentarios",BR213:Nat Geo Wild SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65768
+#EXTINF:-1 tvg-chno="331" tvg-id="tlc.br" tvg-name="tlc.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR142DiscoveryTLCSD.png" group-title="BR Documentarios",BR142:Discovery TLC SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65697
+#EXTINF:-1 tvg-chno="332" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR230SbtFHD.png" group-title="BR Abertos",BR230:Sbt FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65785
+#EXTINF:-1 tvg-chno="333" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR085SBT.png" group-title="BR Abertos",BR085:SBT HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2447
+#EXTINF:-1 tvg-chno="334" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR231SbtSD.png" group-title="BR Abertos",BR231:Sbt SD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65786
+#EXTINF:-1 tvg-chno="335" tvg-id="band.br" tvg-name="band.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR006BandBR.png" group-title="BR Abertos",BR006:Band HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2526
+#EXTINF:-1 tvg-chno="336" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR036TVRecord.png" group-title="BR Abertos",BR036:TV Record HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2496
+#EXTINF:-1 tvg-chno="337" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR083Record.png" group-title="BR Abertos",BR083:Record
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2449
+#EXTINF:-1 tvg-chno="338" tvg-id="rede.brasil.br" tvg-name="rede.brasil.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR084RedeTV.png" group-title="BR Abertos",BR084:Rede TV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2448
+#EXTINF:-1 tvg-chno="339" tvg-id="tv.brasil.br" tvg-name="tv.brasil.br" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR229RedeTVSD.png" group-title="BR Abertos",BR229:Tv Brasil
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/65784
+#EXTINF:-1 tvg-chno="340" tvg-id="" tvg-name="------|xxx-VIP|------" tvg-logo="" group-title="XXX-VIP",------|xxx-VIP|------
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2986
+#EXTINF:-1 tvg-chno="341" tvg-id="" tvg-name="VIP001:Pinko TV" tvg-logo="" group-title="XXX-VIP",VIP001:Pinko TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2985
+#EXTINF:-1 tvg-chno="342" tvg-id="" tvg-name="VIP002:Erotic XXX" tvg-logo="" group-title="XXX-VIP",VIP002:Erotic XXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2984
+#EXTINF:-1 tvg-chno="343" tvg-id="" tvg-name="VIP003:PlayBoy TV" tvg-logo="" group-title="XXX-VIP",VIP003:PlayBoy TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2983
+#EXTINF:-1 tvg-chno="344" tvg-id="" tvg-name="VIP004:Hustler TV" tvg-logo="" group-title="XXX-VIP",VIP004:Hustler TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2982
+#EXTINF:-1 tvg-chno="345" tvg-id="" tvg-name="VIP005:JASMIN.TV" tvg-logo="" group-title="XXX-VIP",VIP005:JASMIN.TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2981
+#EXTINF:-1 tvg-chno="346" tvg-id="" tvg-name="VIP006:French Lover" tvg-logo="" group-title="XXX-VIP",VIP006:French Lover
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2980
+#EXTINF:-1 tvg-chno="347" tvg-id="" tvg-name="VIP007:Venus HD" tvg-logo="" group-title="XXX-VIP",VIP007:Venus HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2979
+#EXTINF:-1 tvg-chno="348" tvg-id="" tvg-name="VIP008:DUSK" tvg-logo="" group-title="XXX-VIP",VIP008:DUSK
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2978
+#EXTINF:-1 tvg-chno="349" tvg-id="" tvg-name="VIP009:Brazzers" tvg-logo="" group-title="XXX-VIP",VIP009:Brazzers
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2977
+#EXTINF:-1 tvg-chno="350" tvg-id="" tvg-name="VIP010:Passie XXX" tvg-logo="" group-title="XXX-VIP",VIP010:Passie XXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2976
+#EXTINF:-1 tvg-chno="351" tvg-id="" tvg-name="VIP011:Penthouse" tvg-logo="" group-title="XXX-VIP",VIP011:Penthouse
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2975
+#EXTINF:-1 tvg-chno="352" tvg-id="" tvg-name="VIP012:Maidenvan Holland" tvg-logo="" group-title="XXX-VIP",VIP012:Maidenvan Holland
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2974
+#EXTINF:-1 tvg-chno="353" tvg-id="" tvg-name="VIP013:Superone" tvg-logo="" group-title="XXX-VIP",VIP013:Superone
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2973
+#EXTINF:-1 tvg-chno="354" tvg-id="" tvg-name="VIP014:Super 1" tvg-logo="" group-title="XXX-VIP",VIP014:Super 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2972
+#EXTINF:-1 tvg-chno="355" tvg-id="" tvg-name="VIP015:Super 2" tvg-logo="" group-title="XXX-VIP",VIP015:Super 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2971
+#EXTINF:-1 tvg-chno="356" tvg-id="" tvg-name="VIP016:Super 3" tvg-logo="" group-title="XXX-VIP",VIP016:Super 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2970
+#EXTINF:-1 tvg-chno="357" tvg-id="" tvg-name="VIP017:Super 4" tvg-logo="" group-title="XXX-VIP",VIP017:Super 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2969
+#EXTINF:-1 tvg-chno="358" tvg-id="" tvg-name="VIP018:Super 5" tvg-logo="" group-title="XXX-VIP",VIP018:Super 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2968
+#EXTINF:-1 tvg-chno="359" tvg-id="" tvg-name="VIP019:Babes 6" tvg-logo="" group-title="XXX-VIP",VIP019:Babes 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2967
+#EXTINF:-1 tvg-chno="360" tvg-id="" tvg-name="VIP020:Super 6" tvg-logo="" group-title="XXX-VIP",VIP020:Super 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2966
+#EXTINF:-1 tvg-chno="361" tvg-id="" tvg-name="VIP021:Babes 9" tvg-logo="" group-title="XXX-VIP",VIP021:Babes 9
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2965
+#EXTINF:-1 tvg-chno="362" tvg-id="" tvg-name="VIP022:CENTO XCENTO" tvg-logo="" group-title="XXX-VIP",VIP022:CENTO XCENTO
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2964
+#EXTINF:-1 tvg-chno="363" tvg-id="" tvg-name="VIP023:Erotic 2" tvg-logo="" group-title="XXX-VIP",VIP023:Erotic 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2963
+#EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="VIP024:Erotic 3" tvg-logo="" group-title="XXX-VIP",VIP024:Erotic 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2962
+#EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="VIP025:Erotic 7" tvg-logo="" group-title="XXX-VIP",VIP025:Erotic 7
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2961
+#EXTINF:-1 tvg-chno="366" tvg-id="" tvg-name="VIP026:Erotic 1" tvg-logo="" group-title="XXX-VIP",VIP026:Erotic 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2960
+#EXTINF:-1 tvg-chno="367" tvg-id="" tvg-name="VIP027:Miami TV" tvg-logo="" group-title="XXX-VIP",VIP027:Miami TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2959
+#EXTINF:-1 tvg-chno="368" tvg-id="" tvg-name="VIP028:Red Light" tvg-logo="" group-title="XXX-VIP",VIP028:Red Light
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/2958
+#EXTINF:-1 tvg-chno="369" tvg-id="" tvg-name="VIP041:SEXTREME" tvg-logo="" group-title="XXX-VIP",VIP041:SEXTREME
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33151
+#EXTINF:-1 tvg-chno="370" tvg-id="" tvg-name="VIP042:XY Plus HD" tvg-logo="" group-title="XXX-VIP",VIP042:XY Plus HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33150
+#EXTINF:-1 tvg-chno="371" tvg-id="" tvg-name="VIP043:Russian Night" tvg-logo="" group-title="XXX-VIP",VIP043:Russian Night
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33149
+#EXTINF:-1 tvg-chno="372" tvg-id="" tvg-name="VIP044:Barely Legal TV" tvg-logo="" group-title="XXX-VIP",VIP044:Barely Legal TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33148
+#EXTINF:-1 tvg-chno="373" tvg-id="" tvg-name="VIP045:Leo TV" tvg-logo="" group-title="XXX-VIP",VIP045:Leo TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33147
+#EXTINF:-1 tvg-chno="374" tvg-id="" tvg-name="VIP046:Vivid TV Europe" tvg-logo="" group-title="XXX-VIP",VIP046:Vivid TV Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33146
+#EXTINF:-1 tvg-chno="375" tvg-id="" tvg-name="VIP047:DUSK!" tvg-logo="" group-title="XXX-VIP",VIP047:DUSK!
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33145
+#EXTINF:-1 tvg-chno="376" tvg-id="" tvg-name="VIP048:X-Dream TV" tvg-logo="" group-title="XXX-VIP",VIP048:X-Dream TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33144
+#EXTINF:-1 tvg-chno="377" tvg-id="" tvg-name="VIP049:XXL" tvg-logo="" group-title="XXX-VIP",VIP049:XXL
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33143
+#EXTINF:-1 tvg-chno="378" tvg-id="" tvg-name="VIP050:Max XXX 2" tvg-logo="" group-title="XXX-VIP",VIP050:Max XXX 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33142
+#EXTINF:-1 tvg-chno="379" tvg-id="" tvg-name="VIP051:Passion XXX" tvg-logo="" group-title="XXX-VIP",VIP051:Passion XXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33141
+#EXTINF:-1 tvg-chno="380" tvg-id="" tvg-name="VIP052:Reality Kings TV" tvg-logo="" group-title="XXX-VIP",VIP052:Reality Kings TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33140
+#EXTINF:-1 tvg-chno="381" tvg-id="" tvg-name="VIP053:Pink O TV" tvg-logo="" group-title="XXX-VIP",VIP053:Pink O TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33139
+#EXTINF:-1 tvg-chno="382" tvg-id="" tvg-name="VIP054:BALKAN EROTIC" tvg-logo="" group-title="XXX-VIP",VIP054:BALKAN EROTIC
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33138
+#EXTINF:-1 tvg-chno="383" tvg-id="" tvg-name="VIP055:Sext & Senso" tvg-logo="" group-title="XXX-VIP",VIP055:Sext & Senso
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33137
+#EXTINF:-1 tvg-chno="384" tvg-id="" tvg-name="VIP056:Set Life" tvg-logo="" group-title="XXX-VIP",VIP056:Set Life
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33136
+#EXTINF:-1 tvg-chno="385" tvg-id="" tvg-name="VIP057:Red XXX" tvg-logo="" group-title="XXX-VIP",VIP057:Red XXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33135
+#EXTINF:-1 tvg-chno="386" tvg-id="" tvg-name="VIP058:CZECH STREETS" tvg-logo="" group-title="XXX-VIP",VIP058:CZECH STREETS
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33134
+#EXTINF:-1 tvg-chno="387" tvg-id="" tvg-name="VIP059:Brazzers TV Europe Russian" tvg-logo="" group-title="XXX-VIP",VIP059:Brazzers TV Europe Russian
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33133
+#EXTINF:-1 tvg-chno="388" tvg-id="" tvg-name="VIP060:Hot TV" tvg-logo="" group-title="XXX-VIP",VIP060:Hot TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33132
+#EXTINF:-1 tvg-chno="389" tvg-id="" tvg-name="VIP061:Bang U Europe" tvg-logo="" group-title="XXX-VIP",VIP061:Bang U Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33131
+#EXTINF:-1 tvg-chno="390" tvg-id="" tvg-name="VIP062:Erotica 3" tvg-logo="" group-title="XXX-VIP",VIP062:Erotica 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33130
+#EXTINF:-1 tvg-chno="391" tvg-id="" tvg-name="VIP063:Sexy HOT" tvg-logo="" group-title="XXX-VIP",VIP063:Sexy HOT
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33129
+#EXTINF:-1 tvg-chno="392" tvg-id="" tvg-name="VIP064:Meiden Van Holland Hard" tvg-logo="" group-title="XXX-VIP",VIP064:Meiden Van Holland Hard
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33128
+#EXTINF:-1 tvg-chno="393" tvg-id="" tvg-name="VIP065:X Bizarre" tvg-logo="" group-title="XXX-VIP",VIP065:X Bizarre
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33127
+#EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="VIP066:X Desire" tvg-logo="" group-title="XXX-VIP",VIP066:X Desire
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33126
+#EXTINF:-1 tvg-chno="395" tvg-id="" tvg-name="VIP067:X Bunga Bunga" tvg-logo="" group-title="XXX-VIP",VIP067:X Bunga Bunga
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33125
+#EXTINF:-1 tvg-chno="396" tvg-id="" tvg-name="VIP068:Pink Erotic" tvg-logo="" group-title="XXX-VIP",VIP068:Pink Erotic
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33124
+#EXTINF:-1 tvg-chno="397" tvg-id="" tvg-name="VIP069:Pink Erotic 2" tvg-logo="" group-title="XXX-VIP",VIP069:Pink Erotic 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33123
+#EXTINF:-1 tvg-chno="398" tvg-id="" tvg-name="VIP070:Pink Erotic 3" tvg-logo="" group-title="XXX-VIP",VIP070:Pink Erotic 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33122
+#EXTINF:-1 tvg-chno="399" tvg-id="" tvg-name="VIP071:Pink Erotic 4" tvg-logo="" group-title="XXX-VIP",VIP071:Pink Erotic 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33121
+#EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="VIP072:Pink Erotic 5" tvg-logo="" group-title="XXX-VIP",VIP072:Pink Erotic 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33120
+#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="VIP073:Pink Erotic 6" tvg-logo="" group-title="XXX-VIP",VIP073:Pink Erotic 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33119
+#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="VIP074:Pink Erotic 7" tvg-logo="" group-title="XXX-VIP",VIP074:Pink Erotic 7
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33118
+#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="VIP075:Pink Erotic 8" tvg-logo="" group-title="XXX-VIP",VIP075:Pink Erotic 8
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33117
+#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="VIP076:Bang U Europe US" tvg-logo="" group-title="XXX-VIP",VIP076:Bang U Europe US
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33116
+#EXTINF:-1 tvg-chno="405" tvg-id="" tvg-name="VIP077:TenX" tvg-logo="" group-title="XXX-VIP",VIP077:TenX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33115
+#EXTINF:-1 tvg-chno="406" tvg-id="" tvg-name="VIP078:DORCEL" tvg-logo="" group-title="XXX-VIP",VIP078:DORCEL
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33114
+#EXTINF:-1 tvg-chno="407" tvg-id="" tvg-name="VIP079:Bang U" tvg-logo="" group-title="XXX-VIP",VIP079:Bang U
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33113
+#EXTINF:-1 tvg-chno="408" tvg-id="" tvg-name="VIP080:Playboy Europe" tvg-logo="" group-title="XXX-VIP",VIP080:Playboy Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33112
+#EXTINF:-1 tvg-chno="409" tvg-id="" tvg-name="VIP081:Blue Hustler" tvg-logo="" group-title="XXX-VIP",VIP081:Blue Hustler
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33111
+#EXTINF:-1 tvg-chno="410" tvg-id="" tvg-name="VIP082:Hot Pleasure" tvg-logo="" group-title="XXX-VIP",VIP082:Hot Pleasure
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33110
+#EXTINF:-1 tvg-chno="411" tvg-id="" tvg-name="VIP083:Pinko Club" tvg-logo="" group-title="XXX-VIP",VIP083:Pinko Club
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33109
+#EXTINF:-1 tvg-chno="412" tvg-id="" tvg-name="VIP084:Super 7" tvg-logo="" group-title="XXX-VIP",VIP084:Super 7
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33108
+#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-name="VIP085:Extrem" tvg-logo="" group-title="XXX-VIP",VIP085:Extrem
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33107
+#EXTINF:-1 tvg-chno="414" tvg-id="" tvg-name="VIP086:BRAZZERS TV EUROPE" tvg-logo="" group-title="XXX-VIP",VIP086:BRAZZERS TV EUROPE
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33106
+#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-name="VIP087:Fake Taxi" tvg-logo="" group-title="XXX-VIP",VIP087:Fake Taxi
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33105
+#EXTINF:-1 tvg-chno="416" tvg-id="" tvg-name="VIP088:Emanuelle" tvg-logo="" group-title="XXX-VIP",VIP088:Emanuelle
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33104
+#EXTINF:-1 tvg-chno="417" tvg-id="" tvg-name="VIP089:Bangerz" tvg-logo="" group-title="XXX-VIP",VIP089:Bangerz
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33103
+#EXTINF:-1 tvg-chno="418" tvg-id="" tvg-name="VIP090:FILMAX Adult" tvg-logo="" group-title="XXX-VIP",VIP090:FILMAX Adult
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33102
+#EXTINF:-1 tvg-chno="419" tvg-id="" tvg-name="VIP091:Scoreland 1" tvg-logo="" group-title="XXX-VIP",VIP091:Scoreland 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33101
+#EXTINF:-1 tvg-chno="420" tvg-id="" tvg-name="VIP092:Fetish" tvg-logo="" group-title="XXX-VIP",VIP092:Fetish
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33100
+#EXTINF:-1 tvg-chno="421" tvg-id="" tvg-name="VIP093:Compilation" tvg-logo="" group-title="XXX-VIP",VIP093:Compilation
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33099
+#EXTINF:-1 tvg-chno="422" tvg-id="" tvg-name="VIP094:FILMAX Adult 8" tvg-logo="" group-title="XXX-VIP",VIP094:FILMAX Adult 8
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33098
+#EXTINF:-1 tvg-chno="423" tvg-id="" tvg-name="VIP095:XY Mix" tvg-logo="" group-title="XXX-VIP",VIP095:XY Mix
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33097
+#EXTINF:-1 tvg-chno="424" tvg-id="" tvg-name="VIP096:FILMAX Adult 9" tvg-logo="" group-title="XXX-VIP",VIP096:FILMAX Adult 9
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33096
+#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-name="VIP097:FILMAX Adult 10" tvg-logo="" group-title="XXX-VIP",VIP097:FILMAX Adult 10
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33095
+#EXTINF:-1 tvg-chno="426" tvg-id="" tvg-name="VIP098:Erotica 2" tvg-logo="" group-title="XXX-VIP",VIP098:Erotica 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33094
+#EXTINF:-1 tvg-chno="427" tvg-id="" tvg-name="VIP099:VIVID RED HD" tvg-logo="" group-title="XXX-VIP",VIP099:VIVID RED HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33093
+#EXTINF:-1 tvg-chno="428" tvg-id="" tvg-name="VIP100:ERO-X" tvg-logo="" group-title="XXX-VIP",VIP100:ERO-X
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33092
+#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-name="VIP101:Secret Circle TV" tvg-logo="" group-title="XXX-VIP",VIP101:Secret Circle TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33091
+#EXTINF:-1 tvg-chno="430" tvg-id="" tvg-name="VIP102:Candy TV" tvg-logo="" group-title="XXX-VIP",VIP102:Candy TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33090
+#EXTINF:-1 tvg-chno="431" tvg-id="" tvg-name="VIP103:Penthouse Quickies" tvg-logo="" group-title="XXX-VIP",VIP103:Penthouse Quickies
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33089
+#EXTINF:-1 tvg-chno="432" tvg-id="" tvg-name="VIP104:PRIVATE" tvg-logo="" group-title="XXX-VIP",VIP104:PRIVATE
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33088
+#EXTINF:-1 tvg-chno="433" tvg-id="" tvg-name="VIP105:X-MO GAY" tvg-logo="" group-title="XXX-VIP",VIP105:X-MO GAY
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33087
+#EXTINF:-1 tvg-chno="434" tvg-id="" tvg-name="VIP106:Latina" tvg-logo="" group-title="XXX-VIP",VIP106:Latina
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33086
+#EXTINF:-1 tvg-chno="435" tvg-id="" tvg-name="VIP107:Beate Uhse.TV" tvg-logo="" group-title="XXX-VIP",VIP107:Beate Uhse.TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33085
+#EXTINF:-1 tvg-chno="436" tvg-id="" tvg-name="VIP108:XY max" tvg-logo="" group-title="XXX-VIP",VIP108:XY max
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33084
+#EXTINF:-1 tvg-chno="437" tvg-id="" tvg-name="VIP109:Candyman Gay Men" tvg-logo="" group-title="XXX-VIP",VIP109:Candyman Gay Men
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33083
+#EXTINF:-1 tvg-chno="438" tvg-id="" tvg-name="VIP110:Fast Boyz Gay Men" tvg-logo="" group-title="XXX-VIP",VIP110:Fast Boyz Gay Men
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33082
+#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-name="VIP111:France a Poil4" tvg-logo="" group-title="XXX-VIP",VIP111:France a Poil4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33081
+#EXTINF:-1 tvg-chno="440" tvg-id="" tvg-name="VIP112:Free X TV 2" tvg-logo="" group-title="XXX-VIP",VIP112:Free X TV 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33080
+#EXTINF:-1 tvg-chno="441" tvg-id="" tvg-name="VIP113:Free X TV" tvg-logo="" group-title="XXX-VIP",VIP113:Free X TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33079
+#EXTINF:-1 tvg-chno="442" tvg-id="" tvg-name="VIP114:SEXTO & SENSO" tvg-logo="" group-title="XXX-VIP",VIP114:SEXTO & SENSO
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33078
+#EXTINF:-1 tvg-chno="443" tvg-id="" tvg-name="VIP115:XXX Stars FHD" tvg-logo="" group-title="XXX-VIP",VIP115:XXX Stars FHD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33077
+#EXTINF:-1 tvg-chno="444" tvg-id="" tvg-name="VIP116:JASMIN.TV HD" tvg-logo="" group-title="XXX-VIP",VIP116:JASMIN.TV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33076
+#EXTINF:-1 tvg-chno="445" tvg-id="" tvg-name="VIP117:Max XXX" tvg-logo="" group-title="XXX-VIP",VIP117:Max XXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33075
+#EXTINF:-1 tvg-chno="446" tvg-id="" tvg-name="VIP118:VIVID TV" tvg-logo="" group-title="XXX-VIP",VIP118:VIVID TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33074
+#EXTINF:-1 tvg-chno="447" tvg-id="" tvg-name="VIP119:X-MO" tvg-logo="" group-title="XXX-VIP",VIP119:X-MO
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/33073
+#EXTINF:-1 tvg-chno="448" tvg-id="" tvg-name="VIP120:O-la-la" tvg-logo="" group-title="XXX-VIP",VIP120:O-la-la
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60658
+#EXTINF:-1 tvg-chno="449" tvg-id="" tvg-name="VIP122:Satisfaction_" tvg-logo="" group-title="XXX-VIP",VIP122:Satisfaction_
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60659
+#EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="VIP123:Evil_Angel" tvg-logo="" group-title="XXX-VIP",VIP123:Evil_Angel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60660
+#EXTINF:-1 tvg-chno="451" tvg-id="" tvg-name="VIP124:XY Plus 24 HD" tvg-logo="" group-title="XXX-VIP",VIP124:XY Plus 24 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60661
+#EXTINF:-1 tvg-chno="452" tvg-id="" tvg-name="VIP125:Gay Channel" tvg-logo="" group-title="XXX-VIP",VIP125:Gay Channel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60662
+#EXTINF:-1 tvg-chno="453" tvg-id="" tvg-name="VIP126:NUART" tvg-logo="" group-title="XXX-VIP",VIP126:NUART
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60663
+#EXTINF:-1 tvg-chno="454" tvg-id="" tvg-name="VIP127:Penthouse Gold" tvg-logo="" group-title="XXX-VIP",VIP127:Penthouse Gold
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60664
+#EXTINF:-1 tvg-chno="455" tvg-id="" tvg-name="VIP128:Penthouse 2" tvg-logo="" group-title="XXX-VIP",VIP128:Penthouse 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60665
+#EXTINF:-1 tvg-chno="456" tvg-id="" tvg-name="VIP129:Penthouse 1" tvg-logo="" group-title="XXX-VIP",VIP129:Penthouse 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60666
+#EXTINF:-1 tvg-chno="457" tvg-id="" tvg-name="VIP130:Max 1" tvg-logo="" group-title="XXX-VIP",VIP130:Max 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60667
+#EXTINF:-1 tvg-chno="458" tvg-id="" tvg-name="VIP131:HotClub 9" tvg-logo="" group-title="XXX-VIP",VIP131:HotClub 9
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60668
+#EXTINF:-1 tvg-chno="459" tvg-id="" tvg-name="VIP132:HotClub 8" tvg-logo="" group-title="XXX-VIP",VIP132:HotClub 8
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60669
+#EXTINF:-1 tvg-chno="460" tvg-id="" tvg-name="VIP133:HotClub 7" tvg-logo="" group-title="XXX-VIP",VIP133:HotClub 7
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60670
+#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-name="VIP134:HotClub 6" tvg-logo="" group-title="XXX-VIP",VIP134:HotClub 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60671
+#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-name="VIP135:HotClub 5" tvg-logo="" group-title="XXX-VIP",VIP135:HotClub 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60672
+#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-name="VIP136:HotClub 4" tvg-logo="" group-title="XXX-VIP",VIP136:HotClub 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60673
+#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-name="VIP137:HotClub 3" tvg-logo="" group-title="XXX-VIP",VIP137:HotClub 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60674
+#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-name="VIP138:HotClub 2" tvg-logo="" group-title="XXX-VIP",VIP138:HotClub 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60675
+#EXTINF:-1 tvg-chno="466" tvg-id="" tvg-name="VIP139:HotClub 1" tvg-logo="" group-title="XXX-VIP",VIP139:HotClub 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60676
+#EXTINF:-1 tvg-chno="467" tvg-id="" tvg-name="VIP140:Redlight HD" tvg-logo="" group-title="XXX-VIP",VIP140:Redlight HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60677
+#EXTINF:-1 tvg-chno="468" tvg-id="" tvg-name="VIP141:Prıvate TV HD" tvg-logo="" group-title="XXX-VIP",VIP141:Prıvate TV HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60678
+#EXTINF:-1 tvg-chno="469" tvg-id="" tvg-name="VIP142:Dorcel XXX HD" tvg-logo="" group-title="XXX-VIP",VIP142:Dorcel XXX HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60679
+#EXTINF:-1 tvg-chno="470" tvg-id="" tvg-name="VIP143:Hot XXL HD" tvg-logo="" group-title="XXX-VIP",VIP143:Hot XXL HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60680
+#EXTINF:-1 tvg-chno="471" tvg-id="" tvg-name="VIP144:Erox HD" tvg-logo="" group-title="XXX-VIP",VIP144:Erox HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60681
+#EXTINF:-1 tvg-chno="472" tvg-id="" tvg-name="VIP145:Erox XXX HD" tvg-logo="" group-title="XXX-VIP",VIP145:Erox XXX HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60682
+#EXTINF:-1 tvg-chno="473" tvg-id="" tvg-name="VIP146:Prive TV" tvg-logo="" group-title="XXX-VIP",VIP146:Prive TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60683
+#EXTINF:-1 tvg-chno="474" tvg-id="" tvg-name="VIP147:Taboo" tvg-logo="" group-title="XXX-VIP",VIP147:Taboo
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60684
+#EXTINF:-1 tvg-chno="475" tvg-id="" tvg-name="VIP148:Oldtimer" tvg-logo="" group-title="XXX-VIP",VIP148:Oldtimer
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60685
+#EXTINF:-1 tvg-chno="476" tvg-id="" tvg-name="VIP149:SINSATIONS: MOFOS 2" tvg-logo="" group-title="XXX-VIP",VIP149:SINSATIONS: MOFOS 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60686
+#EXTINF:-1 tvg-chno="477" tvg-id="" tvg-name="VIP150:Nuart TV Europe" tvg-logo="" group-title="XXX-VIP",VIP150:Nuart TV Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60687
+#EXTINF:-1 tvg-chno="478" tvg-id="" tvg-name="VIP151:Playhouse" tvg-logo="" group-title="XXX-VIP",VIP151:Playhouse
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60688
+#EXTINF:-1 tvg-chno="479" tvg-id="" tvg-name="VIP152:Milf TV" tvg-logo="" group-title="XXX-VIP",VIP152:Milf TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60689
+#EXTINF:-1 tvg-chno="480" tvg-id="" tvg-name="VIP153:Balkan Hot" tvg-logo="" group-title="XXX-VIP",VIP153:Balkan Hot
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60690
+#EXTINF:-1 tvg-chno="481" tvg-id="" tvg-name="VIP154:Balkan Hot 2" tvg-logo="" group-title="XXX-VIP",VIP154:Balkan Hot 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60691
+#EXTINF:-1 tvg-chno="482" tvg-id="" tvg-name="VIP155:Just 89" tvg-logo="" group-title="XXX-VIP",VIP155:Just 89
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60692
+#EXTINF:-1 tvg-chno="483" tvg-id="" tvg-name="VIP156:A3 Bikini TV" tvg-logo="" group-title="XXX-VIP",VIP156:A3 Bikini TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60693
+#EXTINF:-1 tvg-chno="484" tvg-id="" tvg-name="VIP157:Exxxotica TV" tvg-logo="" group-title="XXX-VIP",VIP157:Exxxotica TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60694
+#EXTINF:-1 tvg-chno="485" tvg-id="" tvg-name="VIP158:CZECH STREETS F" tvg-logo="" group-title="XXX-VIP",VIP158:CZECH STREETS F
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60695
+#EXTINF:-1 tvg-chno="486" tvg-id="" tvg-name="VIP159:ALBA 6" tvg-logo="" group-title="XXX-VIP",VIP159:ALBA 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60696
+#EXTINF:-1 tvg-chno="487" tvg-id="" tvg-name="VIP160:ALBA 5" tvg-logo="" group-title="XXX-VIP",VIP160:ALBA 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60697
+#EXTINF:-1 tvg-chno="488" tvg-id="" tvg-name="VIP161:ALBA 4" tvg-logo="" group-title="XXX-VIP",VIP161:ALBA 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60698
+#EXTINF:-1 tvg-chno="489" tvg-id="" tvg-name="VIP162:ALBA 3" tvg-logo="" group-title="XXX-VIP",VIP162:ALBA 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60699
+#EXTINF:-1 tvg-chno="490" tvg-id="" tvg-name="VIP163:ALBA 2" tvg-logo="" group-title="XXX-VIP",VIP163:ALBA 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60700
+#EXTINF:-1 tvg-chno="491" tvg-id="" tvg-name="VIP164:ALBA 1" tvg-logo="" group-title="XXX-VIP",VIP164:ALBA 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60701
+#EXTINF:-1 tvg-chno="492" tvg-id="" tvg-name="VIP165:SEXT6SENSO" tvg-logo="" group-title="XXX-VIP",VIP165:SEXT6SENSO
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60702
+#EXTINF:-1 tvg-chno="493" tvg-id="" tvg-name="VIP166:VIP:Russian" tvg-logo="" group-title="XXX-VIP",VIP166:VIP:Russian
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60703
+#EXTINF:-1 tvg-chno="494" tvg-id="" tvg-name="VIP167:VIP:Threesome" tvg-logo="" group-title="XXX-VIP",VIP167:VIP:Threesome
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60704
+#EXTINF:-1 tvg-chno="495" tvg-id="" tvg-name="VIP168:VIP:Cuckold" tvg-logo="" group-title="XXX-VIP",VIP168:VIP:Cuckold
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60705
+#EXTINF:-1 tvg-chno="496" tvg-id="" tvg-name="VIP170:Teen" tvg-logo="" group-title="XXX-VIP",VIP170:Teen
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60706
+#EXTINF:-1 tvg-chno="497" tvg-id="" tvg-name="VIP171:POV" tvg-logo="" group-title="XXX-VIP",VIP171:POV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60707
+#EXTINF:-1 tvg-chno="498" tvg-id="" tvg-name="VIP173:babesTV" tvg-logo="" group-title="XXX-VIP",VIP173:babesTV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60708
+#EXTINF:-1 tvg-chno="499" tvg-id="" tvg-name="VIP174:Big Ass" tvg-logo="" group-title="XXX-VIP",VIP174:Big Ass
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60709
+#EXTINF:-1 tvg-chno="500" tvg-id="" tvg-name="VIP176:Pornstar TV" tvg-logo="" group-title="XXX-VIP",VIP176:Pornstar TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60710
+#EXTINF:-1 tvg-chno="501" tvg-id="" tvg-name="VIP178:FAP TV 3" tvg-logo="" group-title="XXX-VIP",VIP178:FAP TV 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60711
+#EXTINF:-1 tvg-chno="502" tvg-id="" tvg-name="VIP179:Fap TV Teens" tvg-logo="" group-title="XXX-VIP",VIP179:Fap TV Teens
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60712
+#EXTINF:-1 tvg-chno="503" tvg-id="" tvg-name="VIP180:RUSSKAYA NOCH" tvg-logo="" group-title="XXX-VIP",VIP180:RUSSKAYA NOCH
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60713
+#EXTINF:-1 tvg-chno="504" tvg-id="" tvg-name="VIP181:FILMAX Adult 6" tvg-logo="" group-title="XXX-VIP",VIP181:FILMAX Adult 6
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60714
+#EXTINF:-1 tvg-chno="505" tvg-id="" tvg-name="VIP182:SINSATIONS BLACKED" tvg-logo="" group-title="XXX-VIP",VIP182:SINSATIONS BLACKED
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60715
+#EXTINF:-1 tvg-chno="506" tvg-id="" tvg-name="VIP183:SINSATIONS BLACKED2" tvg-logo="" group-title="XXX-VIP",VIP183:SINSATIONS BLACKED2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60716
+#EXTINF:-1 tvg-chno="507" tvg-id="" tvg-name="VIP184:XY Plus 12 HD" tvg-logo="" group-title="XXX-VIP",VIP184:XY Plus 12 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60717
+#EXTINF:-1 tvg-chno="508" tvg-id="" tvg-name="VIP185:XY Plus 2 HD" tvg-logo="" group-title="XXX-VIP",VIP185:XY Plus 2 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60718
+#EXTINF:-1 tvg-chno="509" tvg-id="" tvg-name="VIP186:massage HD" tvg-logo="" group-title="XXX-VIP",VIP186:massage HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60719
+#EXTINF:-1 tvg-chno="510" tvg-id="" tvg-name="VIP187:FAP TV 4" tvg-logo="" group-title="XXX-VIP",VIP187:FAP TV 4
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60720
+#EXTINF:-1 tvg-chno="511" tvg-id="" tvg-name="VIP188:FAP TV COMPILATION" tvg-logo="" group-title="XXX-VIP",VIP188:FAP TV COMPILATION
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60721
+#EXTINF:-1 tvg-chno="512" tvg-id="" tvg-name="VIP189:Hardcore" tvg-logo="" group-title="XXX-VIP",VIP189:Hardcore
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60722
+#EXTINF:-1 tvg-chno="513" tvg-id="" tvg-name="VIP190:Private TV" tvg-logo="" group-title="XXX-VIP",VIP190:Private TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60723
+#EXTINF:-1 tvg-chno="514" tvg-id="" tvg-name="VIP191:FILMAX Adult 1" tvg-logo="" group-title="XXX-VIP",VIP191:FILMAX Adult 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60724
+#EXTINF:-1 tvg-chno="515" tvg-id="" tvg-name="VIP192:FILMAX Adult 2" tvg-logo="" group-title="XXX-VIP",VIP192:FILMAX Adult 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60725
+#EXTINF:-1 tvg-chno="516" tvg-id="" tvg-name="VIP193:Lesbicas" tvg-logo="" group-title="XXX-VIP",VIP193:Lesbicas
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60726
+#EXTINF:-1 tvg-chno="517" tvg-id="" tvg-name="VIP194:XY Plus 6 HD" tvg-logo="" group-title="XXX-VIP",VIP194:XY Plus 6 HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60727
+#EXTINF:-1 tvg-chno="518" tvg-id="" tvg-name="VIP195:FILMAX Adult 3" tvg-logo="" group-title="XXX-VIP",VIP195:FILMAX Adult 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60728
+#EXTINF:-1 tvg-chno="519" tvg-id="" tvg-name="VIP196:MOFOS 1" tvg-logo="" group-title="XXX-VIP",VIP196:MOFOS 1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60729
+#EXTINF:-1 tvg-chno="520" tvg-id="" tvg-name="VIP197:MOFOS 2" tvg-logo="" group-title="XXX-VIP",VIP197:MOFOS 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60730
+#EXTINF:-1 tvg-chno="521" tvg-id="" tvg-name="VIP198:MOFOS 3" tvg-logo="" group-title="XXX-VIP",VIP198:MOFOS 3
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60731
+#EXTINF:-1 tvg-chno="522" tvg-id="" tvg-name="VIP199:PARODY" tvg-logo="" group-title="XXX-VIP",VIP199:PARODY
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60732
+#EXTINF:-1 tvg-chno="523" tvg-id="" tvg-name="VIP200:RUSNOCH" tvg-logo="" group-title="XXX-VIP",VIP200:RUSNOCH
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60733
+#EXTINF:-1 tvg-chno="524" tvg-id="" tvg-name="VIP201:Cuckold" tvg-logo="" group-title="XXX-VIP",VIP201:Cuckold
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60734
+#EXTINF:-1 tvg-chno="525" tvg-id="" tvg-name="VIP202:FILMAX Adult 5" tvg-logo="" group-title="XXX-VIP",VIP202:FILMAX Adult 5
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60735
+#EXTINF:-1 tvg-chno="526" tvg-id="" tvg-name="VIP203:SHALUN TV" tvg-logo="" group-title="XXX-VIP",VIP203:SHALUN TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60736
+#EXTINF:-1 tvg-chno="527" tvg-id="" tvg-name="VIP204:XY MAX sse" tvg-logo="" group-title="XXX-VIP",VIP204:XY MAX sse
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60737
+#EXTINF:-1 tvg-chno="528" tvg-id="" tvg-name="VIP205:Hustler POL HD" tvg-logo="" group-title="XXX-VIP",VIP205:Hustler POL HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60738
+#EXTINF:-1 tvg-chno="529" tvg-id="" tvg-name="VIP206:iFlixAmateur TV" tvg-logo="" group-title="XXX-VIP",VIP206:iFlixAmateur TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60739
+#EXTINF:-1 tvg-chno="530" tvg-id="" tvg-name="VIP207:iFlixLesbian TV" tvg-logo="" group-title="XXX-VIP",VIP207:iFlixLesbian TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60740
+#EXTINF:-1 tvg-chno="531" tvg-id="" tvg-name="VIP208:iFlixMilf TV" tvg-logo="" group-title="XXX-VIP",VIP208:iFlixMilf TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60741
+#EXTINF:-1 tvg-chno="532" tvg-id="" tvg-name="VIP209:iFlixPornStars TV" tvg-logo="" group-title="XXX-VIP",VIP209:iFlixPornStars TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60742
+#EXTINF:-1 tvg-chno="533" tvg-id="" tvg-name="VIP210:X1" tvg-logo="" group-title="XXX-VIP",VIP210:X1
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60743
+#EXTINF:-1 tvg-chno="534" tvg-id="" tvg-name="VIP211:O la la TV" tvg-logo="" group-title="XXX-VIP",VIP211:O la la TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60744
+#EXTINF:-1 tvg-chno="535" tvg-id="" tvg-name="VIP212:Lesbian Affair HD" tvg-logo="" group-title="XXX-VIP",VIP212:Lesbian Affair HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60745
+#EXTINF:-1 tvg-chno="536" tvg-id="" tvg-name="VIP213:SEX ATION HD" tvg-logo="" group-title="XXX-VIP",VIP213:SEX ATION HD
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60746
+#EXTINF:-1 tvg-chno="537" tvg-id="" tvg-name="VIP214:SCT" tvg-logo="" group-title="XXX-VIP",VIP214:SCT
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60747
+#EXTINF:-1 tvg-chno="538" tvg-id="" tvg-name="VIP215:Шалун TV" tvg-logo="" group-title="XXX-VIP",VIP215:Шалун TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60748
+#EXTINF:-1 tvg-chno="539" tvg-id="" tvg-name="VIP216:Blue Hustler Europe" tvg-logo="" group-title="XXX-VIP",VIP216:Blue Hustler Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60749
+#EXTINF:-1 tvg-chno="540" tvg-id="" tvg-name="VIP217:Russian Night Europe" tvg-logo="" group-title="XXX-VIP",VIP217:Russian Night Europe
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60750
+#EXTINF:-1 tvg-chno="541" tvg-id="" tvg-name="VIP218:Pinko Club 2" tvg-logo="" group-title="XXX-VIP",VIP218:Pinko Club 2
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60751
+#EXTINF:-1 tvg-chno="542" tvg-id="" tvg-name="VIP219:Free X TV HQ" tvg-logo="" group-title="XXX-VIP",VIP219:Free X TV HQ
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60752
+#EXTINF:-1 tvg-chno="543" tvg-id="" tvg-name="VIP220:Candyman" tvg-logo="" group-title="XXX-VIP",VIP220:Candyman
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60753
+#EXTINF:-1 tvg-chno="544" tvg-id="" tvg-name="VIP221:Fashion TV" tvg-logo="" group-title="XXX-VIP",VIP221:Fashion TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/60754
